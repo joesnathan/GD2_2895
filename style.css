@@ -79,7 +79,7 @@ button {
   text-transform: uppercase;
   cursor: pointer;
   transition: all 0.4s ease;
-  min-width: 200px;
+  min-width: 600px;
 }
 
 button:hover {
